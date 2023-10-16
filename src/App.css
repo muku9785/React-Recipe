@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 40px;
+  width: 50%;
+  margin: 50px 10px;
+}
+
+.searchBar {
+  display: flex;
+  flex-direction: row;
+  margin: 3px 47%;
+}
+
+.btn {
+
+  margin: 3px 51%;
+
+}
+.allRecipe{
+  display: flex;
+  flex-direction: column;
+}
+
